@@ -40,14 +40,16 @@ have insight on the below requirements
     - Cars: 37,087 casualties (80.2% of total)
     - Other: Bicycles (3,703), Buses/Vans (3,741), Trucks (1,276), Tractors (89), Misc (361)
 - Secondary KPIs
-Casualties by Vehicle Type: Clear segmentation provided for all key transport categories with total count visualization.
+  
+  - Casualties by Vehicle Type: Clear segmentation provided for all key transport categories with total count visualization.
 
 ## Analytical Trends & Insights
-- Monthly Trend (CY vs PY): Side-by-side comparison of monthly casualties for 2021 and 2022.
-    Shows a mid-year rise in casualties and decline towards December, supporting seasonal trend analysis.
+- Monthly Trend (CY vs PY):
+    - Side-by-side comparison of monthly casualties for 2021 and 2022.
+    - Shows a mid-year rise in casualties and decline towards December, supporting seasonal trend analysis.
 
 - Maximum Casualties by Road Type:
-  Single Carriageway roads recorded the highest casualties (32.6K), followed by dual carriageways (9.8K).
+    - Single Carriageway roads recorded the highest casualties (32.6K), followed by dual carriageways (9.8K).
 
 - Distribution by Road Surface:
     - Dry: 27,676
@@ -56,13 +58,13 @@ Casualties by Vehicle Type: Clear segmentation provided for all key transport ca
     - Implication: Most accidents occur in dry conditions but wet/snow surfaces present elevated risks per incident.
 
 - Relation Between Casualties by Area/Time of Day:
- - Location:
-   - Rural: Majority of accidents
+   - Location:
+       - Rural: Majority of accidents
 
-- Lighting Conditions:
-    - Daylight: 33.4K
-    - Dark: 12.9K
-    - Indicates higher frequency during daytime but possibly higher severity during nighttime.
+  - Lighting Conditions:
+      - Daylight: 33.4K
+      - Dark: 12.9K
+      - Indicates higher frequency during daytime but possibly higher severity during nighttime.
 ## Conclusion & Recommendations
 This dashboard fulfills all client requirements by offering:
 
